@@ -8,8 +8,8 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: 'Hi, kunjungi resume saya', url: 'https://blog.tangly1024.com' },
-    { title: 'atau ... tinggalkan pesan Anda.', url: 'https://docs.tangly1024.com' }
+    { title: 'Hi, kunjungi resume saya', url: 'https://nurlaelabulan.my.id/about' },
+    { title: 'atau kirimkan pesan Anda.', url: 'https://docs.tangly1024.com' }
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -28,9 +28,9 @@ const CONFIG = {
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: 'Manajemen', url: '/tag/manajemen' },
-  HEO_HERO_CATEGORY_2: { title: 'Data', url: '/tag/data' },
-  HEO_HERO_CATEGORY_3: { title: 'Desain', url: '/tag/desain' },
+  HEO_HERO_CATEGORY_1: { title: 'manajemen', url: '/tag/manajemen' },
+  HEO_HERO_CATEGORY_2: { title: 'data', url: '/tag/data' },
+  HEO_HERO_CATEGORY_3: { title: 'desain', url: '/tag/desain' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: 'Recommended posts',
